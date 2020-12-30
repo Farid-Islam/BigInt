@@ -119,5 +119,11 @@ where name denotes your filename, the name you saved for this Big Int file. Also
   ```
 ---
 
+**Note**: We are new to c++. We just created this class for only our learning purposes.
+We want to improve more in the future.
+We've tried our best for bug-free writing code, so any kind of mistake pointers there would be appreciated as well.
+
+Thanks in advance for pointing us to any kind of mistake.
+
 ## Credit
 This Big Integer class was created by [Farid Islam](https://www.facebook.com/farid.0point) and [Sujon Hasan](https://www.facebook.com/profile.php?id=100058892555448&_rdc=1&_rdr)
